@@ -12,4 +12,4 @@ pip install -r requirements.txt
 ```
 
 # **Train the homography alignment network and perform 3D reconstruction** 
-The **"Codes"** directory provides working codes together with pretrained weights to train the homography alignment network on custom dataset. The **train_homo_opt.ipynb** notebook contains all required functions for training, eveluation and 3D scene point traingulation. Run the **evaluation.ipynb** to benchmark against *"Lucas-Konade"*, *"RAFT"*, and *"FlowFormer"*.
+The **"Codes"** directory provides working codes together with pretrained weights to train the homography alignment network on custom dataset. The **train_homo_opt.ipynb** notebook contains all required functions for training, eveluation and 3D scene point traingulation. Run the **evaluation.ipynb** to benchmark against *Lucas-Konade*, *RAFT*, and *FlowFormer*.
